@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ClientMain" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="top.idoknow.ghost.slave.core.ClientMain" />
+    <module name="GhostSlave" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
